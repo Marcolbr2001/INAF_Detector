@@ -38,5 +38,5 @@ To insulate the walls, two lead shields were placed on the sides so that the par
 
 Through an Arduino UNO microcontroller, data were collected and plotted into different graphs by calculating average values in centi-becquerel to study different environments.
 <br><br>
-Cosmic Rays, as can be seen from the video, are detected by a higher "beep" sound, however, in this particular video conditions, the detector is not potitioned well and doesn't reveal real cosmic rays radiation.
+Cosmic Rays, as can be seen from the video, are detected by a higher "beep" sound, however, in this particular video conditions, the detector is not positioned well and doesn't reveal real cosmic rays radiation.
 
