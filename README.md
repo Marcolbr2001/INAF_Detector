@@ -1,13 +1,11 @@
 # INAF Cosmic Rays Detector
 
-<it> _The Cosmic Rays Detector is a project based in a INAF prototype._ </it>
+<it> _The Cosmic Rays Detector is a project based in an INAF prototype._ </it>
 
 <div align="center">
 
 
 </div>
-
-## Inside the Arm
 
 **Used Materials**
 
@@ -27,6 +25,9 @@
 </p>
 
 ## Inside the Detector
+
+INAF had supplied a prototype cosmic ray detector using two Geiger tubes placed in parallel.
+
 ![Geiger2](https://github.com/user-attachments/assets/c1eafa36-ae07-474a-81b6-512d50eea5cf)
 
 To insulate the walls, two lead shields were placed on the sides so that the particles could pass through only first in one tube and then in the other, at each detection therefore, through an AND logic gate installed in the circuit, it was possible to discriminate between environmental particles and cosmic rays coming from above.
@@ -34,8 +35,6 @@ To insulate the walls, two lead shields were placed on the sides so that the par
 ## Functioning
 
 ![Geiger](https://github.com/user-attachments/assets/dd59a804-b091-49b4-8562-e0e31adaddfa)
-
-INAF had supplied a prototype cosmic ray detector using two geiger tubes placed in parallel.
 
 Through an Arduino UNO microcontroller, data were collected and plotted into different graphs by calculating average values in centi-becquerel to study different environments.
 <br><br>
