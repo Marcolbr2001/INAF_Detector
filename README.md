@@ -8,7 +8,6 @@ A compact radiation detection system based on a prototype developed by **INAF** 
 
 The detector uses two aligned Geiger tubes and a lead-collimated geometry to discriminate cosmic rays from ambient radiation. An **AND-gate coincidence logic** is used to confirm true cosmic ray events.
 
-https://github.com/user-attachments/assets/698930dd-47ed-4191-8b07-490820b2f595
 ---
 
 ## 🛠️ Hardware Components
@@ -53,6 +52,11 @@ Where:
 
 ## 📹 Demonstration
 
+<div align="center">
+
+https://github.com/user-attachments/assets/698930dd-47ed-4191-8b07-490820b2f595
+
+</div>
 A video (`GeigerData.1.mp4`) is included in the repository to demonstrate the audio and visual output of the system.
 
 ---
@@ -88,14 +92,7 @@ A video (`GeigerData.1.mp4`) is included in the repository to demonstrate the au
 
 <div align="center">
 
-
-
-
 https://github.com/user-attachments/assets/698930dd-47ed-4191-8b07-490820b2f595
-
-
-
-
 
 </div>
 
