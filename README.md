@@ -70,7 +70,7 @@ A video (`GeigerData.1.mp4`) is included in the repository to demonstrate the au
 
 
 
-
+<!--
 
 
 
@@ -109,8 +109,9 @@ https://github.com/user-attachments/assets/698930dd-47ed-4191-8b07-490820b2f595
 </pre>
 
 <p align="center">
-
+-->
   <!--<img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/97c4f9f9-d9a5-4a7c-9f70-d55d0c68c5f6" width="350" alt="accessibility text">-->
+  <!--
 </p>
 
 ## Inside the Detector
@@ -129,3 +130,4 @@ Through an Arduino UNO microcontroller, data were collected and plotted into dif
 <br><br>
 Cosmic Rays, as can be seen from the video, are detected by a higher "beep" sound, however, in this particular video conditions, the detector is not positioned well and doesn't reveal real cosmic rays radiation.
 
+-->
