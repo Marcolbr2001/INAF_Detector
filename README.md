@@ -1,6 +1,6 @@
 # ☄️ INAF Cosmic Rays Detector
 
-A compact radiation detection system based on a prototype developed by **INAF** (Istituto Nazionale di Astrofisica), designed to detect **cosmic ray muons** using two Geiger-Müller tubes and a coincidence circuit. The detector is built around basic logic gates and controlled via an Arduino UNO for data logging and real-time display.
+A compact radiation detection system based on a prototype developed by **INAF** (Istituto Nazionale di Astrofisica), designed to detect **cosmic ray muons** 🌌 using two Geiger-Müller tubes and a coincidence circuit. The detector is built around basic logic gates and controlled via an Arduino UNO for data logging and real-time display.
 
 ---
 
