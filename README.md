@@ -1,3 +1,83 @@
+# ☄️ INAF Cosmic Rays Detector
+
+A compact radiation detection system based on a prototype developed by **INAF** (Istituto Nazionale di Astrofisica), designed to detect **cosmic ray muons** using two Geiger-Müller tubes and a coincidence circuit. The detector is built around basic logic gates and controlled via an Arduino UNO for data logging and real-time display.
+
+---
+
+## 🧠 System Overview
+
+The detector uses two aligned Geiger tubes and a lead-collimated geometry to discriminate cosmic rays from ambient radiation. An **AND-gate coincidence logic** is used to confirm true cosmic ray events.
+
+<img src="./media/internal_detector.jpg" width="450"/> <img src="./media/assembled_detector.jpg" width="450"/>
+
+---
+
+## 🛠️ Hardware Components
+
+- 🧪 2x Geiger-Müller tubes
+- ⚡ Logic gate circuitry (AND coincidence detection)
+- 🧠 Arduino UNO (data acquisition + control)
+- 🖥️ 16x2 LCD display for real-time readout
+- 🖨️ 3D-printed dual-case (sensor and electronics)
+- 🪙 USB-powered with internal high voltage generation
+
+---
+
+## 📈 Functionality
+
+- **Real-time coincidence detection**: Only simultaneous pulses from both Geiger tubes are considered valid cosmic ray events
+- **Radiation dose estimate**: Counts converted into centi-becquerels (cBq) and cumulative value shown
+- **Environmental comparison**: Readings can be logged to analyze radiation in different locations
+- **Audio feedback**: Distinct tones for ambient vs. cosmic events
+
+---
+
+## 🧪 Methodology
+
+The INAF-provided PCB includes two parallel Geiger tubes. Lead shielding ensures that only particles coming from above (cosmic muons) can trigger both tubes in sequence. An **AND gate** filters events that are truly simultaneous, rejecting background radiation.
+
+---
+
+## 📷 Example Readout
+
+
+Where:
+- `C:` = Cumulative radiation count
+- `T1/T2` = Timestamps of latest events on Tube 1 and Tube 2
+
+---
+
+## 📹 Demonstration
+
+A video (`GeigerData.1.mp4`) is included in the repository to demonstrate the audio and visual output of the system.
+
+---
+
+## 🧭 Applications
+
+- Educational demonstrations on cosmic radiation
+- Portable radiation detection
+- Arduino-based instrumentation
+- Low-cost space science experiments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # INAF Cosmic Rays Detector
 
 <it> _The Cosmic Rays Detector is a project based in an INAF prototype._ </it>
