@@ -41,15 +41,6 @@ The INAF-provided PCB includes two parallel Geiger tubes. Lead shielding ensures
 
 ---
 
-## 📷 Example Readout
-
-
-Where:
-- `C:` = Cumulative radiation count
-- `T1/T2` = Timestamps of latest events on Tube 1 and Tube 2
-
----
-
 ## 📹 Demonstration
 
 <div align="center">
